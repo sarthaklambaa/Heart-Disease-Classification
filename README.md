@@ -4,13 +4,11 @@
 
 Welcome to the "Heart Disease Classification" project! This data science project is focused on developing a machine-learning model to classify heart disease based on various features. The primary goal is to predict the likelihood of a person having heart disease, providing valuable insights for early diagnosis and intervention.
 
+**Explore the project directly on Kaggle:** [Heart Disease Classification on Kaggle](https://www.kaggle.com/code/sarthaklamba/heart-disease-classification)
+
 ## Project Description
 
 Heart disease is a critical health issue globally, and early detection is crucial for effective treatment. This project utilizes machine-learning techniques to analyze and predict the presence of heart disease based on a set of features. By exploring and understanding patterns in the data, we aim to contribute to the development of a reliable predictive model.
-
-## Project Link on Kaggle
-
-**Explore the project directly on Kaggle:** [Heart Disease Classification on Kaggle](https://www.kaggle.com/code/sarthaklamba/heart-disease-classification)
 
 ## Dataset
 
